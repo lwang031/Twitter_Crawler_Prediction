@@ -28,13 +28,12 @@ uses `tweepy` to interact with Twitter's API. Set size of chunk, `chunk size`, a
    3. Most tweets don't have geo information.
 
 ### Instructions on deploying the system
-   1. pip install whoosh, flask, geocoder, flask-googlemaps
-   
-   2.run indexSearch.py
+   1. pip install whoosh, flask, geocoder, flask-googlemaps.	
+   2.run indexSearch.py:
    	
 	`python indexSearch.py`
    
-   3. run app.py
+   3. run app.py:
    	
 	`python app.py`	
    
