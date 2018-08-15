@@ -34,9 +34,5 @@ uses `tweepy` to interact with Twitter's API. Set size of chunk, `chunk size`, a
     3. run app.py
 `python app.py`
     4. Input search query into the search box
-
-![image](https://user-images.githubusercontent.com/5117029/44162816-71835500-a08f-11e8-9830-953ae902fb33.png)
-![image](https://user-images.githubusercontent.com/5117029/44162821-76480900-a08f-11e8-9566-0682b5e154f8.png)
-![image](https://user-images.githubusercontent.com/5117029/44162827-7ba55380-a08f-11e8-83f6-36695c0d2ee0.png)
 ![image](https://user-images.githubusercontent.com/5117029/44162830-7e07ad80-a08f-11e8-82a6-c023cea0c75e.png)
 ![image](https://user-images.githubusercontent.com/5117029/44162834-819b3480-a08f-11e8-86cd-8802d37701ac.png)
