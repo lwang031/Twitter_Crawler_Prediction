@@ -29,7 +29,6 @@ uses `tweepy` to interact with Twitter's API. Set size of chunk, `chunk size`, a
 
 ### Instructions on deploying the system
    1. pip install whoosh, flask, geocoder, flask-googlemaps
-   
    2.run indexSearch.py
    	
 	`python indexSearch.py`
