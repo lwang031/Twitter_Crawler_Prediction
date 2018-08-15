@@ -32,9 +32,15 @@ uses `tweepy` to interact with Twitter's API. Set size of chunk, `chunk size`, a
    2.run indexSearch.py
    	`python indexSearch.py`
    3. run app.py
-   	`python app.py`
-	
+   	`python app.py`	
    4. Input search query into the search box
+
+
+
+
+
+
+
 
 
 
