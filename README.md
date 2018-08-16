@@ -20,9 +20,12 @@ uses `tweepy` to interact with Twitter's API. Set size of chunk, `chunk size`, a
    Build web-based interface with Flask library in python. Implement map function with flask-googlemaps library.
 ### Index Structures
    Implement Okapi BM25 scoring function with Whoosh. 
-   Add time factor: `timeFactor = 1/(currentTime - tweetTime)`. Most recent posts have largest value. It's then wegighted to blance its relevance to the BM25 score.
    
-    `Overall Score = Score(BM25) + Score(time)`
+   Add time factor: `timeFactor = 1/(currentTime - tweetTime)`. 
+   
+   Most recent posts have largest value. It's then wegighted to blance its relevance to the BM25 score.
+   
+    Overall Score = Score(BM25) + Score(time)
 
 ### Limitations
    1. Take in duplicates and retweets as normal. 
